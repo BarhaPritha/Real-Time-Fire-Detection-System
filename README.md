@@ -9,3 +9,5 @@ The components that we used to execute the project are given below:
 • Buzzer
 • 5 mm LED light (red and green color)
 • 1 kilo ohm resistor
+
+https://www.youtube.com/watch?v=NPspiVwoV54
